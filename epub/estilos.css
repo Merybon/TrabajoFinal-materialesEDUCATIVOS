@@ -1,0 +1,13 @@
+.title {
+    text-align: right;
+    color: grey;
+}
+
+.author {
+    text-align: right;
+    color: grey;
+}
+
+body { 
+    margin: 5%; text-align: justify; font-size: medium; 
+}
